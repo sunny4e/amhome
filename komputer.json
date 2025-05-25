@@ -1,0 +1,12 @@
+{
+    "type": "micro",
+    "wake_word": "komputer",
+    "author": "Gerlach",
+    "website": "https://zuhausebeifranne.uk/",
+    "model": "./komputer.tflite",
+    "version": 1,
+    "micro": {
+        "probability_cutoff": 0.97,
+        "sliding_window_size": 10
+    }
+}
