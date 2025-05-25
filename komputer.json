@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "komputer",
-    "author": "Gerlach",
+    "author": "sunny4e",
     "website": "https://zuhausebeifranne.uk/",
     "model": "./komputer.tflite",
     "version": 1,
